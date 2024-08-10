@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A447AE05-93D6-4D7D-BEC7-800B28B4C796}|DrinksAPI\\DrinksAPI.csproj|c:\\users\\50684\\source\\repos\\drinksapi\\drinksapi\\services\\drinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447AE05-93D6-4D7D-BEC7-800B28B4C796}|DrinksAPI\\DrinksAPI.csproj|solutionrelative:drinksapi\\services\\drinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447AE05-93D6-4D7D-BEC7-800B28B4C796}|DrinksAPI\\DrinksAPI.csproj|c:\\users\\50684\\source\\repos\\drinksapi\\drinksapi\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447AE05-93D6-4D7D-BEC7-800B28B4C796}|DrinksAPI\\DrinksAPI.csproj|solutionrelative:drinksapi\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447AE05-93D6-4D7D-BEC7-800B28B4C796}|DrinksAPI\\DrinksAPI.csproj|c:\\users\\50684\\source\\repos\\drinksapi\\drinksapi\\services\\idrinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447AE05-93D6-4D7D-BEC7-800B28B4C796}|DrinksAPI\\DrinksAPI.csproj|solutionrelative:drinksapi\\services\\idrinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrinkController.cs",
+              "DocumentMoniker": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\DrinksAPI\\Controllers\\DrinkController.cs",
+              "RelativeDocumentMoniker": "DrinksAPI\\Controllers\\DrinkController.cs",
+              "ToolTip": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\DrinksAPI\\Controllers\\DrinkController.cs",
+              "RelativeToolTip": "DrinksAPI\\Controllers\\DrinkController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAHgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:38:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinkService.cs",
+              "DocumentMoniker": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\DrinksAPI\\Services\\DrinkService.cs",
+              "RelativeDocumentMoniker": "DrinksAPI\\Services\\DrinkService.cs",
+              "ToolTip": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\DrinksAPI\\Services\\DrinkService.cs",
+              "RelativeToolTip": "DrinksAPI\\Services\\DrinkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:36:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDrinkService.cs",
+              "DocumentMoniker": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\DrinksAPI\\Services\\IDrinkService.cs",
+              "RelativeDocumentMoniker": "DrinksAPI\\Services\\IDrinkService.cs",
+              "ToolTip": "C:\\Users\\50684\\source\\repos\\DrinksAPI\\DrinksAPI\\Services\\IDrinkService.cs",
+              "RelativeToolTip": "DrinksAPI\\Services\\IDrinkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:35:13.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

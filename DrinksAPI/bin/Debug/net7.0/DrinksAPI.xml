@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DrinksAPI</name>
+    </assembly>
+    <members>
+        <member name="M:DrinksAPI.Controllers.DrinkController.GetDrinks">
+            <summary>
+            Obtiene todas las bebidas.
+            </summary>
+            <returns>Una lista de todas las bebidas registradas.</returns>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.GetDrinkById(System.Int32)">
+            <summary>
+            Obtiene una bebida por su identificador.
+            </summary>
+            <returns>La bebida con el identificador especificado.</returns>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.AddDrink(DrinksAPI.Models.Drink)">
+            <summary>
+            Agrega una nueva bebida.
+            </summary>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.UpdateDrink(System.Int32,DrinksAPI.Models.Drink)">
+            <summary>
+            Actualiza una bebida.
+            </summary>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.DeleteDrink(System.Int32)">
+            <summary>
+            Elimina una bebida.
+            </summary>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.GetDrinkTypes(System.Int32)">
+            <summary>
+            Obtiene los tipos de bebida de una bebida.
+            </summary>
+            <returns>Una lista de los tipos de bebida de la bebida especificada.</returns>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.AddDrinkType(System.Int32,DrinksAPI.Models.DrinkType)">
+            <summary>
+            Agrega un tipo de bebida a una bebida.
+            </summary>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.AddDrinkTypes(System.Int32,System.Collections.Generic.IEnumerable{DrinksAPI.Models.DrinkType})">
+            <summary>
+            Agrega multiples tipos de bebida a una bebida.
+            </summary>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.UpdateDrinkType(System.Int32,System.Int32,DrinksAPI.Models.DrinkType)">
+            <summary>
+            Actualiza un tipo de bebida de una bebida.
+            </summary>
+        </member>
+        <member name="M:DrinksAPI.Controllers.DrinkController.DeleteDrinkType(System.Int32,System.Int32)">
+            <summary>
+            Elimina un tipo de bebida de una bebida.
+            </summary>
+        </member>
+    </members>
+</doc>
